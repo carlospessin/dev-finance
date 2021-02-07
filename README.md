@@ -5,7 +5,7 @@
  </h1>
 
 
-<img align="left" src="https://github.com/carlospessin/dev-finance/blob/master/assets/web.png" width="630px" min-width="630px"> <img src="https://github.com/carlospessin/dev-finance/blob/master/assets/mobile.png" height="320px">
+<img src="https://github.com/carlospessin/dev-finance/blob/master/assets/preview.png" width="630px" min-width="630px">
 
 <br>
 
