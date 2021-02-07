@@ -5,7 +5,7 @@
  </h1>
 
 <p align="center">
-  <img src="https://github.com/carlospessin/dev-finance/blob/master/assets/preview2.png">
+  <img src="https://github.com/carlospessin/dev-finance/blob/master/assets/preview.png">
 </p>
 
 
