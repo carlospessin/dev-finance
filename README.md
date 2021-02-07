@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-  <img alt="dev-finance-logo" title="dev-finance-logob" src="assets/logo.svg" width="200px" />
+  <img alt="dev-finance-logo" title="dev-finance-logo" src="assets/logob.svg" width="200px" />
  </h1>
 
 <p align="center">
-  <img src="https://github.com/carlospessin/dev-finance/blob/master/assets/preview2.png">
+  <img src="https://github.com/carlospessin/dev-finance/blob/master/assets/preview.png">
 </p>
 
 
