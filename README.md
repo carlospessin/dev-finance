@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img alt="dev-finance-logo" title="dev-finance-logo" src="assets/logo.svg" width="200px" />
+  <img alt="dev-finance-logo" title="dev-finance-logob" src="assets/logo.svg" width="200px" />
  </h1>
 
 <p align="center">
