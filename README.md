@@ -12,9 +12,8 @@
 
 <br>
 
-<p align="center">
   Aplicação financeira construída na Maratona Discover da [Rocketseat](https://rocketseat.com.br/)
-</p>
+
 
 
 
@@ -29,4 +28,4 @@
 
 ---
 
-Este projeto esta sobe a licença MIT - Veja o arquivo [LICENSE.md](https://github.com/carlospessin/dev-finance/blob/master/LICENSE.md) para detalhes.
+Este projeto esta sobe a licença [MIT](https://github.com/carlospessin/dev-finance/blob/master/LICENSE.md).
