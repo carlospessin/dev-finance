@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  Aplicação financeira construída na Maratona Discover da ![Rocketseat](https://rocketseat.com.br/)
+  Aplicação financeira construída na Maratona Discover da [Rocketseat](https://rocketseat.com.br/)
 </p>
 
 
